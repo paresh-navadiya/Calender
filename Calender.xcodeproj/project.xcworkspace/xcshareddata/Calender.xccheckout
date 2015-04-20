@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85D3306A-69A0-4AF7-A057-1DFBA0512F26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Calender</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5EA5E6F0038BFB6EE35BBD5F168FD6645CBD9FAD</key>
+		<string>https://github.com/safecase123/Calender.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Calender.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5EA5E6F0038BFB6EE35BBD5F168FD6645CBD9FAD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/safecase123/Calender.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5EA5E6F0038BFB6EE35BBD5F168FD6645CBD9FAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5EA5E6F0038BFB6EE35BBD5F168FD6645CBD9FAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calender</string>
+		</dict>
+	</array>
+</dict>
+</plist>

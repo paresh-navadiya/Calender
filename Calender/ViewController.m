@@ -38,8 +38,6 @@
     //paresh
     NSDateComponents *compNow = [NSDate componentsOfCurrentDate];
     [self performSelector:@selector(updateToCurrentTime) withObject:self afterDelay:60.0f-compNow.second];
-    
-    //[self performSelector:@selector(refreshEvents) withObject:self afterDelay:30];
 }
 
 -(void)updateToCurrentTime
@@ -48,16 +46,6 @@
         [self.dayView.nowLineView updateTime];
     }
     [self performSelector:@selector(updateToCurrentTime) withObject:self afterDelay:60.0f];
-}
-
--(void)refreshEvents
-{
-    [mutArrEvents removeAllObjects];
-    
-    [mutArrEvents addObject:@[@"Meeting with Aum Patel, Meeting with Aum Patel", @"Paresh Navadiya Paresh Navadiya", @1, @0, @2, @15]];
-    [mutArrEvents addObject:@[@"Call with HCA Client, Call with HCA Client, Call with HCA Client", @"Paresh Navadiya", @4, @0, @6, @30]];
-     
-     [self.dayView reloadData];
 }
 
 - (void)didReceiveMemoryWarning {
